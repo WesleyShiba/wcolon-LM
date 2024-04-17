@@ -1,0 +1,15 @@
+/Users/wesley/Documents/wcolon-LM/COMP2315/wcolon-LM/COMP2315/Laboratorios C#/Acr.Ciclos2/bin/Debug/net8.0/Acr.Ciclos2
+/Users/wesley/Documents/wcolon-LM/COMP2315/wcolon-LM/COMP2315/Laboratorios C#/Acr.Ciclos2/bin/Debug/net8.0/Acr.Ciclos2.deps.json
+/Users/wesley/Documents/wcolon-LM/COMP2315/wcolon-LM/COMP2315/Laboratorios C#/Acr.Ciclos2/bin/Debug/net8.0/Acr.Ciclos2.runtimeconfig.json
+/Users/wesley/Documents/wcolon-LM/COMP2315/wcolon-LM/COMP2315/Laboratorios C#/Acr.Ciclos2/bin/Debug/net8.0/Acr.Ciclos2.dll
+/Users/wesley/Documents/wcolon-LM/COMP2315/wcolon-LM/COMP2315/Laboratorios C#/Acr.Ciclos2/bin/Debug/net8.0/Acr.Ciclos2.pdb
+/Users/wesley/Documents/wcolon-LM/COMP2315/wcolon-LM/COMP2315/Laboratorios C#/Acr.Ciclos2/obj/Debug/net8.0/Acr.Ciclos2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wesley/Documents/wcolon-LM/COMP2315/wcolon-LM/COMP2315/Laboratorios C#/Acr.Ciclos2/obj/Debug/net8.0/Acr.Ciclos2.AssemblyInfoInputs.cache
+/Users/wesley/Documents/wcolon-LM/COMP2315/wcolon-LM/COMP2315/Laboratorios C#/Acr.Ciclos2/obj/Debug/net8.0/Acr.Ciclos2.AssemblyInfo.cs
+/Users/wesley/Documents/wcolon-LM/COMP2315/wcolon-LM/COMP2315/Laboratorios C#/Acr.Ciclos2/obj/Debug/net8.0/Acr.Ciclos2.csproj.CoreCompileInputs.cache
+/Users/wesley/Documents/wcolon-LM/COMP2315/wcolon-LM/COMP2315/Laboratorios C#/Acr.Ciclos2/obj/Debug/net8.0/Acr.Ciclos2.sourcelink.json
+/Users/wesley/Documents/wcolon-LM/COMP2315/wcolon-LM/COMP2315/Laboratorios C#/Acr.Ciclos2/obj/Debug/net8.0/Acr.Ciclos2.dll
+/Users/wesley/Documents/wcolon-LM/COMP2315/wcolon-LM/COMP2315/Laboratorios C#/Acr.Ciclos2/obj/Debug/net8.0/refint/Acr.Ciclos2.dll
+/Users/wesley/Documents/wcolon-LM/COMP2315/wcolon-LM/COMP2315/Laboratorios C#/Acr.Ciclos2/obj/Debug/net8.0/Acr.Ciclos2.pdb
+/Users/wesley/Documents/wcolon-LM/COMP2315/wcolon-LM/COMP2315/Laboratorios C#/Acr.Ciclos2/obj/Debug/net8.0/Acr.Ciclos2.genruntimeconfig.cache
+/Users/wesley/Documents/wcolon-LM/COMP2315/wcolon-LM/COMP2315/Laboratorios C#/Acr.Ciclos2/obj/Debug/net8.0/ref/Acr.Ciclos2.dll
