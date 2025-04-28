@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block title %}peliculas{% endblock %}
+
+{% block content %}
+  <h2>Listado de peliculas</h2>
+  <table>
+    <tr><th>ID</th><th>Nombre</th><th>Precio</th></tr>
+    {% for pelicula in peliculas %}
+    <tr>
+      <td>{{ pelicula.id }}</td>
+      <td>{{ pelicula.nombre }}</td>
+      <td>${{ pelicula.precio }}</td>
+    </tr>
+    {% endfor %}
+  </table>
+{% endblock %}
